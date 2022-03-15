@@ -1,0 +1,1 @@
+[{"id":0,"name":"Cosa1","price":"10.00","thumbnail":"qweqwe"},{"id":1,"name":"Cosa2","price":"8.00","thumbnail":"qweqweasd"},{"id":2,"name":"Cosa3","price":"109.00","thumbnail":"imangen3"},{"id":3,"name":"Cosa1","price":"10.00","thumbnail":"qweqwe"},{"id":4,"name":"Cosa2","price":"8.00","thumbnail":"qweqweasd"},{"id":5,"name":"Cosa3","price":"109.00","thumbnail":"imangen3"}]
